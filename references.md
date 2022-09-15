@@ -1,3 +1,2 @@
 # References
-
-* octocat 1 😈
+Me myself and I
